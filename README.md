@@ -105,7 +105,7 @@ A cutting-edge, fully-featured Doctor Appointment Scheduling Web App built with 
 - **Progressive Enhancement**: Works without JavaScript
 - **Dark Mode Ready**: Theme system supports multiple modes
 
-Netlify live link- https://6880e72e4d50081f9327a4e1--schedula2.netlify.app/doctors
+Netlify live link- https://6880e72e4d50081f9327a4e1--schedula2.netlify.app/
 
 ## 📦 Installation & Setup
 
